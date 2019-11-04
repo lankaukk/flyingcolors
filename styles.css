@@ -48,7 +48,7 @@ body {
   position: fixed;
   left: -5vw;
   top: 0vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .red2 {
@@ -61,19 +61,19 @@ body {
   position: fixed;
   left: 0vw;
   top: -5vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigred {
   width: 33vw;
   left: 80vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigred2 {
   height: 33vh;
   top: 80vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .orange {
@@ -86,7 +86,7 @@ body {
   position: fixed;
   left: -5vw;
   top: 14.3vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .orange2 {
@@ -99,18 +99,18 @@ body {
   position: fixed;
   top: -5vh;
   left: 14.3vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigorange {
   width: 33vw; left: 80vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigorange2 {
   height: 33vh;
   top: 80vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 
@@ -124,7 +124,7 @@ body {
   position: fixed;
   left: -5vw;
   top: 28.6vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .yellow2 {
@@ -137,18 +137,18 @@ body {
   position: fixed;
   top: -5vh;
   left: 28.6vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigyellow {
   width: 33vw; left: 80vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigyellow2 {
   height: 33vh;
   top: 80vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 
@@ -162,7 +162,7 @@ body {
   position: fixed;
   left: -5vw;
   top: 42.9vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .green2 {
@@ -175,18 +175,18 @@ body {
   position: fixed;
   top: -5vh;
   left: 42.9vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .biggreen {
   width: 33vw; left: 80vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .biggreen2 {
   height: 33vh;
   top: 80vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .blue {
@@ -199,7 +199,7 @@ body {
   position: fixed;
   left: -5vw;
   top: 57.2vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .blue2 {
@@ -212,18 +212,18 @@ body {
   position: fixed;
   top: -5vh;
   left: 57.2vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigblue {
   width: 33vw; left: 80vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigblue2 {
   height: 33vh;
   top: 80vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .purple {
@@ -236,7 +236,7 @@ body {
   position: fixed;
   left: -5vw;
   top: 71.5vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .purple2 {
@@ -249,18 +249,18 @@ body {
   position: fixed;
   top: -5vh;
   left: 71.5vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigpurple {
   width: 33vw; left: 80vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigpurple2 {
   height: 33vh;
   top: 80vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .violet {
@@ -273,7 +273,7 @@ body {
   position: fixed;
   left: -5vw;
   top: 85.8vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .violet2 {
@@ -286,16 +286,22 @@ body {
   position: fixed;
   top: -5vh;
   left: 85.8vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigviolet {
   width: 33vw; left: 80vw;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
 }
 
 .bigviolet2 {
   height: 33vh;
   top: 80vh;
-  transition: all 3s ease-in-out;
+  transition: all 2s ease-in-out;
+}
+
+@media only screen and (max-width: 600px) {
+  .bigviolet2, .bigpurple2, .bigblue2, .biggreen2, .bigyellow2, .bigorange2, .bigred2 {
+    top: 70vh;
+  }
 }
