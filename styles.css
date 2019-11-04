@@ -41,7 +41,7 @@ body {
 .red {
   background-color: #FF9566;
   height: 14.3vh;
-  width: 10vw;
+  width: 25vw;
   border-radius: 5vw;
 
   display: block;
@@ -53,7 +53,7 @@ body {
 
 .red2 {
   background-color: #FF9566;
-  height: 10vh;
+  height: 25vh;
   width: 14.3vw;
   border-radius: 5vw;
 
@@ -66,20 +66,20 @@ body {
 
 .bigred {
   width: 33vw;
-  left: 95vw;
+  left: 80vw;
   transition: all 3s ease-in-out;
 }
 
 .bigred2 {
   height: 33vh;
-  top: 95vh;
+  top: 80vh;
   transition: all 3s ease-in-out;
 }
 
 .orange {
   background-color: #FFD966;
   height: 14.3vh;
-  width: 10vw;
+  width: 25vw;
   border-radius: 5vw;
 
   display: block;
@@ -92,7 +92,7 @@ body {
 .orange2 {
   background-color: #FFD966;
   width: 14.3vw;
-  height: 10vh;
+  height: 25vh;
   border-radius: 5vw;
 
   display: block;
@@ -103,13 +103,13 @@ body {
 }
 
 .bigorange {
-  width: 33vw; left: 95vw;
+  width: 33vw; left: 80vw;
   transition: all 3s ease-in-out;
 }
 
 .bigorange2 {
   height: 33vh;
-  top: 95vh;
+  top: 80vh;
   transition: all 3s ease-in-out;
 }
 
@@ -117,7 +117,7 @@ body {
 .yellow {
   background-color: #CCFF73;
   height: 14.3vh;
-  width: 10vw;
+  width: 25vw;
   border-radius: 5vw;
 
   display: block;
@@ -130,7 +130,7 @@ body {
 .yellow2 {
   background-color: #CCFF73;
   width: 14.3vw;
-  height: 10vh;
+  height: 25vh;
   border-radius: 5vw;
 
   display: block;
@@ -141,13 +141,13 @@ body {
 }
 
 .bigyellow {
-  width: 33vw; left: 95vw;
+  width: 33vw; left: 80vw;
   transition: all 3s ease-in-out;
 }
 
 .bigyellow2 {
   height: 33vh;
-  top: 95vh;
+  top: 80vh;
   transition: all 3s ease-in-out;
 }
 
@@ -155,7 +155,7 @@ body {
 .green {
   background-color: #66FFB0;
   height: 14.3vh;
-  width: 10vw;
+  width: 25vw;
   border-radius: 5vw;
 
   display: block;
@@ -168,7 +168,7 @@ body {
 .green2 {
   background-color: #66FFB0;
   width: 14.3vw;
-  height: 10vh;
+  height: 25vh;
   border-radius: 5vw;
 
   display: block;
@@ -179,20 +179,20 @@ body {
 }
 
 .biggreen {
-  width: 33vw; left: 95vw;
+  width: 33vw; left: 80vw;
   transition: all 3s ease-in-out;
 }
 
 .biggreen2 {
   height: 33vh;
-  top: 95vh;
+  top: 80vh;
   transition: all 3s ease-in-out;
 }
 
 .blue {
   background-color: #64B8FF;
   height: 14.3vh;
-  width: 10vw;
+  width: 25vw;
   border-radius: 5vw;
 
   display: block;
@@ -205,7 +205,7 @@ body {
 .blue2 {
   background-color: #64B8FF;
   width: 14.3vw;
-  height: 10vh;
+  height: 25vh;
   border-radius: 5vw;
 
   display: block;
@@ -216,20 +216,20 @@ body {
 }
 
 .bigblue {
-  width: 33vw; left: 95vw;
+  width: 33vw; left: 80vw;
   transition: all 3s ease-in-out;
 }
 
 .bigblue2 {
   height: 33vh;
-  top: 95vh;
+  top: 80vh;
   transition: all 3s ease-in-out;
 }
 
 .purple {
   background-color:#A46DFF;
   height: 14.3vh;
-  width: 10vw;
+  width: 25vw;
   border-radius: 5vw;
 
   display: block;
@@ -242,7 +242,7 @@ body {
 .purple2 {
   background-color:#A46DFF;
   width: 14.3vw;
-  height: 10vh;
+  height: 25vh;
   border-radius: 5vw;
 
   display: block;
@@ -253,20 +253,20 @@ body {
 }
 
 .bigpurple {
-  width: 33vw; left: 95vw;
+  width: 33vw; left: 80vw;
   transition: all 3s ease-in-out;
 }
 
 .bigpurple2 {
   height: 33vh;
-  top: 95vh;
+  top: 80vh;
   transition: all 3s ease-in-out;
 }
 
 .violet {
   background-color: #FF66CF;
   height: 14.3vh;
-  width: 10vw;
+  width: 25vw;
   border-radius: 5vw;
 
   display: block;
@@ -279,7 +279,7 @@ body {
 .violet2 {
   background-color: #FF66CF;
   width: 14.3vw;
-  height: 10vh;
+  height: 25vh;
   border-radius: 5vw;
 
   display: block;
@@ -290,12 +290,12 @@ body {
 }
 
 .bigviolet {
-  width: 33vw; left: 95vw;
+  width: 33vw; left: 80vw;
   transition: all 3s ease-in-out;
 }
 
 .bigviolet2 {
   height: 33vh;
-  top: 95vh;
+  top: 80vh;
   transition: all 3s ease-in-out;
 }
